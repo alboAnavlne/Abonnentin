@@ -1,0 +1,3 @@
+discord.py
+PyNaC1
+davey
